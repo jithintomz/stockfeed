@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html class="no-js"><head>
+<title>SF bay area nonprofit jobs - craigslist</title>
+<meta name="description" content="SF bay area nonprofit jobs  - craigslist">
+<link rel="canonical" href="https://sfbay.craigslist.org/search/npo?s=2065">
+<link rel="alternate" type="application/rss+xml" href="https://sfbay.craigslist.org/search/npo?format=rss&amp;s=2065" title="RSS feed for craigslist | SF bay area nonprofit jobs  - craigslist ">
+<link rel="prev" href="https://sfbay.craigslist.org/search/npo?s=1965">
+<meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=c930bb2a2c50e230ce8629c02ac351de">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=2596d885173913080847ef3349069d57">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=31607a98a2cb3fba2c70e3e66ecb4440">
+<link rel="prefetch" href="//www.craigslist.org/js/postings-concat.min.js?v=379e79601d562b0da9737d1e08ce2733">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet.css?v=52966d0fad2afe8dd918e5f48abb0db3">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=c9937ed03fbb57f185493cd8c283efeb">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=5c09c6ffb1c4ef76218367db13d53dbe">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+<script type="text/javascript"><!--
+var areaCountry = "US";
+var areaID = "1";
+var areaRegion = "CA";
+var catAbb = "npo";
+var countOfTotalText = "image {count} of {total}";
+var currencySymbol = "";
+var defaultView = "list";
+var expiredFavIDs = null;
+var imageHost = "http://images.craigslist.org";
+var lessInfoText = "less info";
+var maptileBaseUrl = "//map{s}.craigslist.org/t08/{z}/{x}/{y}.png";
+var maxResults = 2500;
+var noImageText = "no image";
+var pID = null;
+var purveyorCategories = null;
+var sectionAbb = "jjj";
+var sectionBase = "jjj";
+var showInfoText = "show info";
+var showMapTabs = 1;
+var starHint = "save this post in your favorites list";
+var subarea = null;
+var zoomToPosting = null;
+--></script>
+<!--[if lt IE 9]>
+<script src="//www.craigslist.org/js/html5shiv.min.js?v=096822b653643ed1af3136947e4ea79a" type="text/javascript" ></script>
+<script src="//www.craigslist.org/js/respond-fork.min.js?v=d7e1cb0d97ee0c0c9d84a7d4f1d03469" type="text/javascript" ></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<script src="//www.craigslist.org/js/json2.min.js?v=178d4ad319e0e0b4a451b15e49b71bec" type="text/javascript" ></script>
+<![endif]-->
+</head>
+<body class="search">
+<script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        var lng = C('cl_def_lang');
+        if (lng) bodyClassList.push(lng.substr(0,2));
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+<section id="pagecontainer">
+<div class="bglogo"></div>
+<header class="global-header">
+<div class="mobile-header">
+<div class="mobile-menu-button">menu</div>
+<h2 class="mobile-logo">
+<a class="mobile-logo-link" href="/">craigslist</a> &gt; jobs
+</h2>
+</div>
+<a class="header-logo" href="https://sfbay.craigslist.org">CL</a>
+<div class="mobile-menu-drawer">
+<nav class="breadcrumbs-container">
+<form id="breadcrumbform" method="get" action="/search/npo" data-action="/search/###/npo">
+<ul class="breadcrumbs">
+<li class="crumb area"><label for="areaAbb" class="mobile-only submenu-text">area</label><span class="no-js"><a href="/">SF bay area</a></span>
+<select name="areaAbb" id="areaAbb" class="js-only">
+<option value="sfbay">SF bay area</option>
+<option value="bakersfield">bakersfield</option>
+<option value="chico">chico</option>
+<option value="fresno">fresno</option>
+<option value="goldcountry">gold country</option>
+<option value="hanford">hanford</option>
+<option value="mendocino">mendocino co</option>
+<option value="merced">merced</option>
+<option value="modesto">modesto</option>
+<option value="monterey">monterey</option>
+<option value="redding">redding</option>
+<option value="reno">reno</option>
+<option value="sacramento">sacramento</option>
+<option value="slo">san luis obispo</option>
+<option value="santamaria">santa maria</option>
+<option value="stockton">stockton</option>
+<option value="susanville">susanville</option>
+<option value="visalia">visalia-tulare</option>
+<option value="yubasutter">yuba-sutter</option>
+</select>
+<span class="breadcrumb-arrow">&gt;</span></li><li class="crumb subarea"><label for="subArea" class="mobile-only submenu-text">subarea</label><select id="subArea" name="subArea">
+<option value="" selected>all SF bay area</option>
+<option value="eby">east bay</option>
+<option value="nby">north bay</option>
+<option value="pen">peninsula</option>
+<option value="sfc">san francisco</option>
+<option value="scz">santa cruz</option>
+<option value="sby">south bay</option>
+</select>
+<span class="breadcrumb-arrow">&gt;</span></li><li class="crumb section"><label for="catAbb" class="mobile-only submenu-text">section</label><select name="catAbb" id="catAbb">
+<option value="ccc">community</option>
+<option value="eee">events</option>
+<option value="sss">for sale</option>
+<option value="ggg">gigs</option>
+<option value="hhh">housing</option>
+<option value="jjj" selected>jobs</option>
+<option value="ppp">personals</option>
+<option value="rrr">resumes</option>
+<option value="bbb">services</option>
+</select>
+<span class="breadcrumb-arrow">&gt;</span></li><li class="crumb category"><div class="mobile-only breadcrumb-labels">category</div>
+<select id="subcatAbb" class="js-only">
+<option value="jjj">all</option><option value="ofc">admin/office</option>
+<option value="bus">business</option>
+<option value="csr">customer service</option>
+<option value="edu">education</option>
+<option value="egr">engineering</option>
+<option value="etc">etcetera</option>
+<option value="acc">finance</option>
+<option value="fbh">food/bev/hosp</option>
+<option value="lab">general labor</option>
+<option value="gov">government</option>
+<option value="hea">healthcare</option>
+<option value="hum">human resource</option>
+<option value="eng">internet engineering</option>
+<option value="lgl">legal</option>
+<option value="mnu">manufacturing</option>
+<option value="mar">marketing</option>
+<option value="med">media</option>
+<option value="npo" selected>nonprofit</option>
+<option value="rej">real estate</option>
+<option value="ret">retail/wholesale</option>
+<option value="sls">sales</option>
+<option value="spa">salon/spa/fitness</option>
+<option value="sci">science</option>
+<option value="sec">security</option>
+<option value="trd">skilled trades</option>
+<option value="sof">software</option>
+<option value="sad">systems/networking</option>
+<option value="tch">tech support</option>
+<option value="trp">transport</option>
+<option value="tfr">tv video radio</option>
+<option value="web">web design</option>
+<option value="wri">writing</option>
+</select><span class="no-js">nonprofit</span>
+<span class="no-js"> <input type="submit" value="go"></span></li>
+</ul>
+</form>
+</nav>
+<ul class="userlinks">
+<li class="user post">
+<a class="no-mobile" href="https://post.craigslist.org/c/sfo">post</a>
+<a class="mobile-only" href="https://post.craigslist.org/c/sfo">post to classifieds</a>
+</li>
+<li class="user account">
+<span>[ </span>
+<a class="no-mobile" href="https://accounts.craigslist.org/login/home">account</a>
+<a class="mobile-only" href="https://accounts.craigslist.org/login/home">my account</a>
+<span> ]</span>
+</li>
+<li class="user fav no-mobile">
+<div class="favorites">
+<a href="#" class="favlink"><span class="n">0</span><span class="no-mobile"> favorites</span></a>
+</div>
+</li>
+<li class="user discards no-mobile">
+<span class="trash red"></span> <span class="hidden_count withmap"></span><span class="hidden_count nomap"></span> <span class="no-mobile">hidden</span>
+</li>
+</ul>
+</div>
+</header>
+<div class="middle">
+<form id="searchform" action="/search/npo">
+<div class="searchbox">
+<input id="excats" type="hidden" name="excats">
+<div class="searchgroup showoptions linklike closed">
+<span class="open">&ndash;</span><span class="closed">+</span> search options
+</div>
+<div class="mobile-favorites mobile-only"><div class="favorites">
+<a href="#" class="favlink"><span class="n">0</span><span class="no-mobile"> favorites</span></a>
+</div></div>
+<div class="mobile-discards"><span class="trash red"></span> <span class="hidden_count nomap"></span><span class="hidden_count withmap"></span></div>
+<div class="searchoptions closed">
+<div class="searchgroup categories">
+<div class="cattitle"><a href="/search/npo" title="clear all search parameters" class="reset">nonprofit jobs</a></div>
+</div>
+<input type="hidden" name="is_paid" id="is_paid" value="all">
+<div class="searchgroup">
+<ul><li><label class="srchType"><input type="checkbox" name="srchType" class="autosubmit" value="T">search titles only</label></li><li><label class="hasPic"><input type="checkbox" name="hasPic" class="autosubmit" value="1">has image</label></li><li><label class="postedToday"><input type="checkbox" name="postedToday" class="autosubmit" value="1">posted today</label></li><li><label class="searchNearby"><input type="checkbox" name="searchNearby" class="autosubmit" value="1">search nearby areas</label></li></ul>
+<ul class="js-only nearbyAreas ">
+<li class="nearbyZone nearbyZone_2'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_17" value="63" disabled="disabled">bakersfield, CA <small>(bak)</small></label><li class="nearbyZone nearbyZone_1'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_9" value="187" disabled="disabled">chico, CA <small>(chc)</small></label><li class="nearbyZone nearbyZone_1'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_8" value="43" disabled="disabled">fresno / madera <small>(fre)</small></label><li class="'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_5" checked="checked" value="373" disabled="disabled">gold country <small>(gld)</small></label><li class="nearbyZone nearbyZone_1'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_10" value="709" disabled="disabled">hanford-corcoran <small>(hnf)</small></label><li class="nearbyZone nearbyZone_3'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_18" value="189" disabled="disabled">humboldt county <small>(hmb)</small></label><li class="nearbyZone nearbyZone_1'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_7" value="454" disabled="disabled">mendocino county <small>(mdo)</small></label><li class="'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_4" checked="checked" value="285" disabled="disabled">merced, CA <small>(mer)</small></label><li class="'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_2" checked="checked" value="96" disabled="disabled">modesto, CA <small>(mod)</small></label><li class="'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_1" checked="checked" value="102" disabled="disabled">monterey bay <small>(mtb)</small></label><li class="nearbyZone nearbyZone_2'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_15" value="188" disabled="disabled">redding, CA <small>(rdd)</small></label><li class="nearbyZone nearbyZone_2'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_13" value="92" disabled="disabled">reno / tahoe <small>(rno)</small></label><li class="'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_3" checked="checked" value="12" disabled="disabled">sacramento <small>(sac)</small></label><li class="nearbyZone nearbyZone_1'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_11" value="191" disabled="disabled">san luis obispo <small>(slo)</small></label><li class="nearbyZone nearbyZone_3'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_19" value="62" disabled="disabled">santa barbara <small>(sba)</small></label><li class="nearbyZone nearbyZone_2'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_14" value="710" disabled="disabled">santa maria, CA <small>(smx)</small></label><li class="nearbyZone nearbyZone_3'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_20" value="708" disabled="disabled">siskiyou county <small>(ssk)</small></label><li class="'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_0" checked="checked" value="97" disabled="disabled">stockton, CA <small>(stk)</small></label><li class="nearbyZone nearbyZone_2'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_16" value="707" disabled="disabled">susanville, CA <small>(ssn)</small></label><li class="nearbyZone nearbyZone_3'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_21" value="208" disabled="disabled">ventura county <small>(oxr)</small></label><li class="nearbyZone nearbyZone_2'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_12" value="346" disabled="disabled">visalia-tulare <small>(vis)</small></label><li class="nearbyZone nearbyZone_1'"><label class="nearby">'<input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_6" value="456" disabled="disabled">yuba-sutter, CA <small>(ybs)</small></label><li><span class="nextNearbyZone linklike" data-zone="1">+ show <span id="nearbyNumber">16</span> more...</span></li>
+</ul>
+<label class="insideRange js-only">
+<input type="checkbox" id="insideRange" class="searchInput" name="insideRange" value="1">within distance
+</label>
+<div id="searchRange" class="js-only ">
+<span class="searchfieldlabel">miles from zip</span>
+<input type="hidden" name="search_distance_type" value="mi">
+<input type="number" max="200" min="0" size="3" inputmode="numeric" class="flatinput searchInput search_distance" placeholder="miles" name="search_distance" value="">
+<input type="text" class="flatinput searchInput postal" placeholder="from zip" size="7" name="postal" value="">
+</div>
+</div>
+<div class="searchgroup"><label class="is_internship"><input type="checkbox" name="is_internship" value="1" class="autosubmit">internship</label><br><label class="is_nonprofit"><input type="checkbox" name="is_nonprofit" value="1" class="autosubmit">non-profit</label><br><label class="is_telecommuting"><input type="checkbox" name="is_telecommuting" value="1" class="autosubmit">telecommute</label><br></div><div class="searchgroup"> <div id="headerattr_employment_type" class="catfilter attr_picker multilink " data-checked-count="0" data-attr="employment_type">
+<span id="plusminus_employment_type" class="plusminus">&ndash;</span>employment type
+</div>
+<ul id="ul_employment_type" class="attr_list "> <li class="attr_employment_type ">
+<label data-attr="employment_type">
+<input id="full-time_1" name="employment_type" class="multi_checkbox multi_employment_type" data-attr="employment_type" value="1" type="checkbox">
+full-time
+</label>
+</li>
+<li class="attr_employment_type ">
+<label data-attr="employment_type">
+<input id="part-time_2" name="employment_type" class="multi_checkbox multi_employment_type" data-attr="employment_type" value="2" type="checkbox">
+part-time
+</label>
+</li>
+<li class="attr_employment_type ">
+<label data-attr="employment_type">
+<input id="contract_3" name="employment_type" class="multi_checkbox multi_employment_type" data-attr="employment_type" value="3" type="checkbox">
+contract
+</label>
+</li>
+<li class="attr_employment_type ">
+<label data-attr="employment_type">
+<input id="employee's_choice_4" name="employment_type" class="multi_checkbox multi_employment_type" data-attr="employment_type" value="4" type="checkbox">
+employee's choice
+</label>
+</li>
+</ul></div>
+<div class="searchgroup resetsearch">
+<a href="/search/npo" title="clear all search parameters" class="reset linklike">reset</a>
+<button type="submit" class="searchlink linklike">search</button>
+</div>
+<div class="no-mobile">
+</div>
+</div>
+</div>
+<div class="rightpane">
+<div class="querybox">
+<span class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></span>
+<input type="text" placeholder="search nonprofit jobs" name="query" id="query" value="" autocorrect="off" autocapitalize="off" autocomplete="off" data-autocomplete="search" class="flatinput ui-autocomplete-input">
+<button type="submit" class="searchbtn"><span class="searchicon"></span></button>
+<div class="savealert">
+<a class="saveme no-mobile" data-action="alert" href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Falert%3FURL%3Dhttps%253A%252F%252Fsfbay%252Ecraigslist%252Eorg%252Fsearch%252Fnpo" title="save this search with email alerts ">email alert</a>
+<a class="saveme no-mobile" data-action="save" href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fsfbay%252Ecraigslist%252Eorg%252Fsearch%252Fnpo" title="save this search ">save search</a>
+<a class="saveme mobile-only" href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Falert%3FURL%3Dhttps%253A%252F%252Fsfbay%252Ecraigslist%252Eorg%252Fsearch%252Fnpo">search alert</a>
+</div>
+</div>
+<div class="search-legend">
+<div class="search-view">
+<ul class="buttongroup js-only">
+<li class="mode button"><a href="#list" title="show results in a list" data-view="list" id="listview">list</a></li>
+<li class="mode button"><a href="#pic" title="show results in a list with thumbnail pictures" data-view="pic" id="picview">thumb</a></li>
+<li class="mode button"><a href="#grid" title="show results side-by-side with larger pictures" data-view="grid" id="gridview">gallery</a></li>
+<li class="mode button"><a href="#map" title="show results on a map" data-view="map" id="mapview">map</a></li>
+</ul>
+</div><div class="search-sort">
+<ul class="buttongroup">
+<li class="button sel"><span>newest</span></li>
+</ul>
+</div><div class="paginator buttongroup  lastpage"><span class="resulttotal">displaying <span class="displaycount">...</span> postings</span><span class="buttons"><a href="/search/npo" class="button first" title="first page">&lt;&lt;</a><span class="button first" title="first page">&lt;&lt;</span><a href="/search/npo?s=1965" class="button prev" title="previous page">&lt; prev</a><span class="button prev" title="previous page">&lt; prev</span><span class="button pagenum"><span class="range"><span class="rangeFrom">2066</span> to <span class="rangeTo">2065</span></span> of <span class="totalcount">2065</span></span><a href="/search/npo?s=2065" class="button next" title="next page"> next &gt; </a><span class="button next" title="next page"> next &gt; </span></span></div>
+</div>
+<div class="content">
+<section class="resultinfo">
+<section class="favlistinfo">
+<h3 class="showing-favorites">
+<span class="star fav"></span> These are posts that you have favorited
+</h3>
+</section>
+<section class="banishlistinfo">
+<h3 class="showing-banished">
+<span class="trash red"></span> These are posts that you have hidden <span class="discards">done</span>
+</h3>
+</section>
+</section>
+<span class="rows">
+</span>
+<div id="mapcontainer" data-arealat="37.500000" data-arealon="-122.250000">
+<div id="noresult-overlay"></div>
+<div id="noresult-text">
+<span class="message">No mappable items found</span>
+</div>
+<div class="includes-hidden"><span class="message"><span class="trash red"></span> includes hidden postings</span></div>
+<div id="map" class="loading"><div class="closeFS">close fullscreen</div></div>
+</div>
+<div class="search-legend bottom">
+<div class="center">
+<div class="search-view">
+<span class="buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+</div>
+<div class="search-sort">
+<span class="buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+</div>
+<div class="paginator buttongroup  lastpage"><span class="resulttotal">displaying <span class="displaycount">...</span> postings</span><span class="buttons"><a href="/search/npo" class="button first" title="first page">&lt;&lt;</a><span class="button first" title="first page">&lt;&lt;</span><a href="/search/npo?s=1965" class="button prev" title="previous page">&lt; prev</a><span class="button prev" title="previous page">&lt; prev</span><span class="button pagenum"><span class="range"><span class="rangeFrom">2066</span> to <span class="rangeTo">2065</span></span> of <span class="totalcount">2065</span></span><a href="/search/npo?s=2065" class="button next" title="next page"> next &gt; </a><span class="button next" title="next page"> next &gt; </span></span></div>
+</div>
+</div>
+</div>
+</div>
+<section class="blurbs">
+</section>
+<div id="floater">
+<img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+<img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+</div>
+<template id="gallerycarousel">
+<div class="sliderinfo"></div><div class="sliderback arrow">&lt;</div><div class="sliderforward arrow">&gt;</div>
+</template>
+</form>
+</div>
+<div class="mobile-only">
+</div>
+<div class="slidemessage">
+<span class="fave">
+<span class="star"></span>
+favorited
+</span>
+<span class="unfave">
+<span class="star"></span>
+no longer favorited
+</span>
+<span class="hide">
+<span class="trash"></span>
+hidden
+</span>
+<span class="unhide">
+<span class="trash"></span>
+no longer hidden
+</span>
+</div>
+<footer>
+<span class="rss">
+<a class="l" href="https://sfbay.craigslist.org/search/npo?format=rss&amp;s=2065">RSS</a>
+<a href="//www.craigslist.org/about/rss">(?)</a><br>
+</span>
+<ul class="clfooter">
+<li>&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+<li><a href="//www.craigslist.org/about/help/">help</a></li>
+<li><a href="//www.craigslist.org/about/scams">safety</a></li>
+<li class="desktop"><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+<li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+<li class="desktop"><a href="//www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+<li><a href="//www.craigslist.org/about/terms.of.use.en">terms</a></li>
+<li><a href="//www.craigslist.org/about/">about</a></li>
+<li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+<li class="fsel mobile linklike" data-mode="regular">desktop</li>
+</ul>
+</footer>
+</section>
+<script src="//www.craigslist.org/js/general-concat.min.js?v=feb6095feae48e50d3a2e572e30bb7e8" type="text/javascript"></script>
+<script type="text/javascript"><!--
+        var iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170';
+        document.body.insertBefore(iframe, null);
+    --></script>
+<script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-pid="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+            <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+            <span class="bedrooms">{BedroomsContent}</span>
+            <span class="postingtitle"><a>{PostingTitle}</a></span>
+            <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                <span class="banish" title="hide"><span class="trash"></span></span><span class="unbanish" title="restore"><span class="trash red"></span></span>
+            </span>
+        </div>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            &laquo; back to posting list
+        </div>
+        <div class="title">
+            <span class="star" data-pid="{PostingID}"></span>
+            <span class="postingtitle">
+              <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+            </span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+                <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                  <span class="banish" title="hide"><span class="trash"></span></span><span class="unbanish" title="restore"><span class="trash red"></span></span>
+                </span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer">
+            <div class="slidernav">
+                <span class="sliderback">&lt;</span><span class="sliderinfo"></span><span class="sliderforward">&gt;</span>
+            </div>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <time class="date timeago"  datetime="{isoPostedDate}">{humanPostedDate}</time>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script src="//www.craigslist.org/js/leaflet-concat.min.js?v=e94df57463b23f65d51109c53646b042" type="text/javascript"></script>
+<script src="//www.craigslist.org/js/search-concat.min.js?v=8b2b588098dea9542e138a177530b4eb" type="text/javascript"></script>
+</body>
+</html>
