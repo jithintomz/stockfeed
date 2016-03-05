@@ -8,7 +8,6 @@
 import scrapy
 from scrapy_djangoitem import DjangoItem
 from news.models import *
-
 class DmozItem(scrapy.Item):
     title = scrapy.Field()
     link = scrapy.Field()

@@ -1,0 +1,44 @@
+<div class="row">
+  <div class="col-md-12">
+    <div class="input-group">
+      <input type="text" class="form-control" ng-model="keyword"   autocomplete="off">
+      <span class="input-group-addon btn btn-sm" ng-click="gettasks(keyword)">Search</span>
+    </div>
+  </div>
+  <div class="col-md-12">
+    <div  style="margin-top:15px;font-size:12px">
+      <div class="box2 box-primary box col-md-12 col-xs-12 col-sm-12">
+
+
+
+        <h2 class="page-header col-md-12 no-side-padding fm-title">Task List <span style="text-align:center;color:#428bca;cursor:pointer;font-size:13px;"  class="pull-right">&nbsp <a href="/#/task/new/"> + Add Task</a></span>
+        </h2>  
+
+
+        <div class="widgetcontent">
+          <table class="table">
+            <thead>
+              <tr>
+                <th style="width:30%">Task</th>
+                <th style="width:30%">Description</th>
+                <th style="width:30%">Duedate</th> 
+                <th></th>   
+              </tr>
+            </thead>
+
+            <tr class="showonhoverparent" ng-repeat=" task in tasks ">
+              <td ><a ng-href="/#/task/{[{task.id}]}">{[{ task.name }]}</a></td>
+              <td> {[{task.description}]} </td>
+              <td> {[{task.dueDate}]} </td>
+              <td style="text-align:center"> <span ng-click="remove_task(task.id)" class="showonhoverchild" href="javascript:void(0)"><a style="cursor:pointer;color:red;font-weight:bold">X</a></span> </td>
+
+            </tr>
+            <tr><td ng-show = "tasks.length == 0" colspan="4" style="text-align:center"> No tasks found </td></tr>
+
+          </table>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

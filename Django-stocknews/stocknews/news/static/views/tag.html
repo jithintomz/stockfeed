@@ -1,0 +1,38 @@
+<div class="row">
+  <div class="col-md-12">
+    <div class="fm-page">
+
+      <div class="fm-header">
+        <div class="fm-title">
+          &nbsp;&nbsp; Tag
+        </div>
+      </div>
+
+      <div class="fm-content">
+        
+        <div  class="form-horizontal">
+
+
+
+          <div class="form-group">
+            <label class="col-md-2 control-label">Name</label>
+            <div class="col-md-2">
+              <input type="text"  ng-model="tag.name"  class="form-control input-md" required>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <!-- Button -->
+          <div class="col-md-offset-2 col-md-4 fm-btnset">
+            <button class="btn btn-primary" ng-click="edit_tag('update')">Save <i ng-show="spin" class="fa fa-spinner fa-spin"></i></button>
+            <span  class="btn btn-danger" ng-click="edit_tag('delete')"> Delete </span>
+            <span   class="btn btn-default" > Cancel </span>
+            
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

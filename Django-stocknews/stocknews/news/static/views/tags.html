@@ -1,0 +1,19 @@
+  
+<div class="row">
+  <div class="col-md-12">
+  <div class="col-md-12" style="padding-right:0px;padding-left:0px;">
+
+      <div class="col-md-3 pull-right" style="padding-right:0px">
+        <div class="input-group">
+          <input type="text" class="form-control" ng-model="new_tags" placeholder="Tags seperated by coma"  autocomplete="off">
+          <span class="input-group-addon btn btn-sm" ng-click="create_tags()">+ Add</span>
+        </div>
+      </div>
+
+
+    </div>
+    <div class="well col-md-12" style="font-size:18px;margin-top:10px;background:#ffffff">
+      <span class="label label-primary" style="float:left;margin-top:5px;margin-left:5px;" ng-repeat="tag in tags"><a ng-href="/#/tag/{[{tag.id}]}" style="color:white">{[{tag.name}]}</a></span>
+    </div>
+  </div>
+</div>

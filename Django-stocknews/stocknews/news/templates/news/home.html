@@ -1,0 +1,61 @@
+{% extends "news/base.html" %}
+
+{% block page_title %}Hexnode MDM{% endblock %}
+{% block page_class %}home-page{% endblock %}
+{% block css %}
+
+{% endblock %}
+
+{% block scripts %}
+<!-- <script src="{{ STATIC_URL }}js/libs/bootstrap.min.js"></script> -->
+{% endblock %}
+
+
+{% block content %}
+<head>
+  <script src="{{ STATIC_URL }}app/newsmodule.js"></script>
+  <script src="{{ STATIC_URL }}app/newscontrollers.js"></script>
+</head>
+
+<div class="container " ng-app="newsApp" style="padding-top:15px;">  
+
+
+
+
+
+
+
+  <div class="row">
+    <div class="col-md-12">
+      <div class="mngmntheader">
+        <div class="title"></span>Taskmanager</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row" ng-controller="classcontrol">
+    <div class="col-md-12">
+      <div class="navbar-header col-md-12">
+        <button style="background:white;margin-right:0px;border: 1px solid #ccc;" type="button" class="navbar-toggle btn btn-default col-md-12 col-sm-6 col-xs-12" data-toggle="collapse" 
+        data-target="#example-navbar-collapse">
+        <span style="background-color:white;text-transform:capitalize;"><span class="fa fa-bars">&nbsp</span>{[{active.current}]}</span>
+      </button>
+    </div>
+    <!-- Nav tabs -->
+    <div class="tabcontainer collapse navbar-collapse" id="example-navbar-collapse">
+      <ul class="nav   navbar-nav">
+        <li ng-class="{'active' : active === 'tasks'}"  ><a href="#" data-toggle="tab">Tasks</a></li>
+      </ul>
+      <ul class="nav   navbar-nav">
+        <li ng-class="{'active' : active === 'tags'}"  ><a href="#tags" data-toggle="tab">Tags</a></li>
+      </ul>
+    </div>
+    <!-- tab content -->
+    <div ng-view style="padding-top:15px;" class="tab-content"></div>
+  </div>
+
+</div>
+
+</div>
+{% endblock %}
+
